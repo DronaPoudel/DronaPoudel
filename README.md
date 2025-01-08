@@ -23,7 +23,7 @@ It is not my genre to limit our opportunity and thought simply by defining an in
  
 Feel free to reach out, and let's chat about all things JavaScript and coding!
 
- 🔭 I’m currently working on connectIPS Web
+- 🔭 I’m currently working on connectIPS Web
 - 🌱 I’m currently learning Web 3
 - 👯 I’m looking to collaborate on Web 3 Technologies
 - 🤔 I’m looking for help with remote jobs.
